@@ -127,7 +127,7 @@
   <tr>
     <td></td>
     <td align="left">Сповіщення</td>
-    <td>⚫</td>
+    <td>🟢</td>
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
@@ -137,7 +137,7 @@
   <tr>
     <td></td>
     <td align="left">Фільтрація даних</td>
-    <td>⚫</td>
+    <td>🟢</td>
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
@@ -147,7 +147,7 @@
   <tr>
     <td></td>
     <td align="left">Візуалізація даних</td>
-    <td>⚫</td>
+    <td>🟢</td>
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
@@ -157,7 +157,7 @@
   <tr>
     <td></td>
     <td align="left">Завантаження інформації</td>
-    <td>⚫</td>
+    <td>🔴</td>
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
@@ -167,7 +167,7 @@
   <tr>
     <td></td>
     <td align="left">Обліковий запис користувача</td>
-    <td>⚫</td>
+    <td>🟢</td>
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
@@ -177,7 +177,7 @@
   <tr>
     <td></td>
     <td align="left">Відстеження активності у ЗМІ</td>
-    <td>⚫</td>
+    <td>🟡</td>
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
@@ -187,7 +187,7 @@
   <tr>
     <td></td>
     <td align="left">Відстеження активності у соцмережах</td>
-    <td>⚫</td>
+    <td>🟢</td>
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
@@ -207,7 +207,7 @@
   <tr>
     <td></td>
     <td align="left">Мови</td>
-    <td>⚫</td>
+    <td>1</td>
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
@@ -217,7 +217,7 @@
   <tr>
     <td></td>
     <td align="left">Вартість</td>
-    <td>⚫</td>
+    <td>0</td>
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
@@ -227,7 +227,7 @@
   <tr>
     <td></td>
     <td align="left">Демо-доступ</td>
-    <td>⚫</td>
+    <td>🔴</td>
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
@@ -237,7 +237,7 @@
   <tr>
     <td></td>
     <td align="left">Для людей з вадами</td>
-    <td>⚫</td>
+    <td>🔴</td>
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
@@ -247,7 +247,7 @@
   <tr>
     <td></td>
     <td align="left">Інтуїтивний інтерфейс</td>
-    <td>⚫</td>
+    <td>🟢</td>
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
@@ -267,7 +267,7 @@
   <tr>
     <td></td>
     <td align="left">Захист інформації</td>
-    <td>⚫</td>
+    <td>🟢</td>
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
@@ -277,7 +277,7 @@
   <tr>
     <td></td>
     <td align="left">Двохфакторна аунтентифікація</td>
-    <td>⚫</td>
+    <td>🔴</td>
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
@@ -287,7 +287,7 @@
   <tr>
     <td></td>
     <td align="left">Авторитетні корпоративні клієнти</td>
-    <td>⚫</td>
+    <td>🟢</td>
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
@@ -307,7 +307,7 @@
   <tr>
     <td></td>
     <td align="left">Оптимізація інтерфейсу</td>
-    <td>⚫</td>
+    <td>🟢</td>
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
@@ -317,7 +317,7 @@
   <tr>
     <td></td>
     <td align="left">Швидкість обробки даних</td>
-    <td>⚫</td>
+    <td>🟢</td>
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
@@ -337,7 +337,7 @@
   <tr>
     <td></td>
     <td align="left">Служба підтримки</td>
-    <td>⚫</td>
+    <td>🟢</td>
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
@@ -347,7 +347,7 @@
   <tr>
     <td></td>
     <td align="left">Технічна документація</td>
-    <td>⚫</td>
+    <td>🔴</td>
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
@@ -357,7 +357,7 @@
   <tr>
     <td></td>
     <td align="left">Часті запитання та відповіді</td>
-    <td>⚫</td>
+    <td>🟢</td>
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
