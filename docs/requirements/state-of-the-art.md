@@ -130,7 +130,7 @@
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
-    <td>⚫</td>
+    <td>🟢</td>
     <td>⚫</td>
     <td>⚫</td>
   </tr>
@@ -140,7 +140,7 @@
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
-    <td>⚫</td>
+    <td>🟢</td>
     <td>⚫</td>
     <td>⚫</td>
   </tr>
@@ -150,7 +150,7 @@
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
-    <td>⚫</td>
+    <td>🟢</td>
     <td>⚫</td>
     <td>⚫</td>
   </tr>
@@ -160,7 +160,7 @@
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
-    <td>⚫</td>
+    <td>🟢</td>
     <td>⚫</td>
     <td>⚫</td>
   </tr>
@@ -170,7 +170,7 @@
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
-    <td>⚫</td>
+    <td>🟢</td>
     <td>⚫</td>
     <td>⚫</td>
   </tr>
@@ -180,7 +180,7 @@
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
-    <td>⚫</td>
+    <td>🟡</td>
     <td>⚫</td>
     <td>⚫</td>
   </tr>
@@ -190,7 +190,7 @@
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
-    <td>⚫</td>
+    <td>🟡</td>
     <td>⚫</td>
     <td>⚫</td>
   </tr>
@@ -210,7 +210,7 @@
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
-    <td>⚫</td>
+    <td>EN, JA, DE, ES, PT, FR</td>
     <td>⚫</td>
     <td>⚫</td>
   </tr>
@@ -220,7 +220,7 @@
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
-    <td>⚫</td>
+    <td>Залежить від обраного плану</td>
     <td>⚫</td>
     <td>⚫</td>
   </tr>
@@ -230,7 +230,7 @@
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
-    <td>⚫</td>
+    <td>🟢</td>
     <td>⚫</td>
     <td>⚫</td>
   </tr>
@@ -240,7 +240,7 @@
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
-    <td>⚫</td>
+    <td>🟡</td>
     <td>⚫</td>
     <td>⚫</td>
   </tr>
@@ -250,7 +250,7 @@
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
-    <td>⚫</td>
+    <td>🟢</td>
     <td>⚫</td>
     <td>⚫</td>
   </tr>
@@ -270,17 +270,17 @@
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
-    <td>⚫</td>
+    <td>🟢</td>
     <td>⚫</td>
     <td>⚫</td>
   </tr>
   <tr>
     <td></td>
-    <td align="left">Двохфакторна аунтентифікація</td>
+    <td align="left">Двофакторна авнтентифікація</td>
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
-    <td>⚫</td>
+    <td>🟢</td>
     <td>⚫</td>
     <td>⚫</td>
   </tr>
@@ -290,7 +290,7 @@
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
-    <td>⚫</td>
+    <td>🟢</td>
     <td>⚫</td>
     <td>⚫</td>
   </tr>
@@ -310,7 +310,7 @@
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
-    <td>⚫</td>
+    <td>🟢</td>
     <td>⚫</td>
     <td>⚫</td>
   </tr>
@@ -320,7 +320,7 @@
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
-    <td>⚫</td>
+    <td>🟢</td>
     <td>⚫</td>
     <td>⚫</td>
   </tr>
@@ -340,7 +340,7 @@
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
-    <td>⚫</td>
+    <td>🟡</td>
     <td>⚫</td>
     <td>⚫</td>
   </tr>
@@ -350,7 +350,7 @@
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
-    <td>⚫</td>
+    <td>🟢</td>
     <td>⚫</td>
     <td>⚫</td>
   </tr>
@@ -360,7 +360,7 @@
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
-    <td>⚫</td>
+    <td>🟢</td>
     <td>⚫</td>
     <td>⚫</td>
   </tr>
