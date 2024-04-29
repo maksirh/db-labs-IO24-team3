@@ -103,7 +103,276 @@
 - *Performance (вимоги до продуктивності)*
 - *Supportability (вимоги до підтримки)*
 
- *(у вигляді таблиці).]*
+<table style="text-align: center;">
+  <tr>
+    <th>Категорія</th>
+    <th>Критерії</th>
+    <th>Social Blade</th>
+    <th>Neticle</th>
+    <th>Google Analytics</th>
+    <th>HubSpot</th>
+    <th>Semantrum</th>
+    <th>Youscan</th>
+  </tr>
+  <tr>
+    <td>Функціональність (Functionality)</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left">Сповіщення</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>🟡</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left">Фільтрація даних</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>🟡</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left">Візуалізація даних</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>🟢</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left">Завантаження інформації</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>🟢</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left">Обліковий запис користувача</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>🟢</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left">Відстеження активності у ЗМІ</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>🟢</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left">Відстеження активності у соцмережах</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>🟢</td>
+  </tr>
+  <tr>
+    <td>Зручність (Usability)</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left">Мови</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>EN, UA</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left">Вартість</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>500-5000$</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left">Демо-доступ</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>1 month</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left">Для людей з вадами</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>🟡</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left">Інтуїтивний інтерфейс</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>🟢</td>
+  </tr>
+  <tr>
+    <td>Надійність (Reliability)</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left">Захист інформації</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>🟢</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left">Двохфакторна аунтентифікація</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>🔴</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left">Авторитетні корпоративні клієнти</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>🟢</td>
+  </tr>
+  <tr>
+    <td>Продуктивність (Performance)</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left">Оптимізація інтерфейсу</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>🟢</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left">Швидкість обробки даних</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>🟢</td>
+  </tr>
+  <tr>
+    <td>Підтримка (Supportability)</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left">Служба підтримки</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>🟢</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left">Технічна документація</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>🟢</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left">Часті запитання та відповіді</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>⚫</td>
+    <td>🟢</td>
+  </tr>
+</table>
+
+Легенда до таблиці (умовні позначення):
+
+🟢 - повністю дотримано;
+
+🟡 - частково дотримано;
+
+🔴 - недотримано;
 
 ## Висновки
 
