@@ -207,7 +207,7 @@
   <tr>
     <td></td>
     <td align="left">Мови</td>
-    <td>1</td>
+    <td>EN</td>
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
